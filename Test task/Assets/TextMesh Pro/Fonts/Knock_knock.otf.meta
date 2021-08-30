@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 67c753e1674fbc04c92dddd7f98aee81
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Knock_knock
+  fontNames:
+  - Knock_knock
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a60e1c5b74c37204ea87cb0953a93c6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
